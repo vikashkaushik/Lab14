@@ -1,8 +1,8 @@
 /*
  * Project Lab14
- * Description:
- * Author:
- * Date:
+ * Description: using blynk mqtt LED and oled ot connect with each other
+ * Author: Vikash Kaushik
+ * Date: 7/8/21
  */
 SYSTEM_THREAD(ENABLED);
 #include "MQTT.h"
